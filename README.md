@@ -4,7 +4,9 @@
       <img src="https://media.licdn.com/dms/image/v2/D5603AQGlrNFjMKhyxg/profile-displayphoto-shrink_200_200/B56ZdcxxEaGQAc-/0/1749608240618?e=2147483647&v=beta&t=xetdo4m-rBsNLW_z8hrSusBFz5nQp8IDJE9kK28Dsqk" width="100%" />
     </td>
     <td>
-      <h1>Hello 👋, I'm <span style="color:#007acc;">Pawani Sharma</span> 🚀</h1>
+      <marquee direction="left" scrollamount="7">
+        <h1>Hello 👋, I'm <span style="color:#007acc;">Pawani Sharma</span> 🚀</h1>
+      </marquee>
       <p>
         🌟 <strong>Aspiring Full Stack Web Developer</strong><br>
         💻 Frontend Fanatic | Open Source Contributor | Clean UI Lover<br>
@@ -13,6 +15,7 @@
     </td>
   </tr>
 </table>
+
 
 ---
 
