@@ -9,7 +9,7 @@
 ## 🧑‍💻 About Me:
 
 - 🔭 I’m currently focusing on **Frontend Development**
-- 💻 Tech Stack: `HTML`, `CSS`, `JavaScript`, `Tailwind`, `Bootstrap`, `Node.js`, `Git`, `GitHub`, `TypeScript`
+- 💻 Tech Stack: `HTML`, `CSS`, `JavaScript`, `Bootstrap`, `Node.js`, `Git`, `GitHub`, `TypeScript`
 - 🌱 I’m learning advanced **JavaScript** & **TypeScript**
 - 🤝 I’m looking to collaborate on **Frontend Projects**
 - 📫 How to reach me: DM on [GitHub](https://github.com/Pawanisharma12)
