@@ -1,16 +1,56 @@
-## Hi there 👋
+<h1 align="center">Hello 👋, I'm Pawani Sharma 🚀</h1>
 
-<!--
-**Pawanisharma12/Pawanisharma12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🌟 Aspiring Full Stack Web Developer | Frontend Enthusiast | Open Source Contributor | Passionate about Clean UI Design & Modern Web Tech 🌟
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me:
+
+- 🔭 I’m currently focusing on **Frontend Development**
+- 💻 Tech Stack: `HTML`, `CSS`, `JavaScript`, `Tailwind`, `Bootstrap`, `Node.js`, `Git`, `GitHub`, `TypeScript`
+- 🌱 I’m learning advanced **JavaScript** & **TypeScript**
+- 🤝 I’m looking to collaborate on **Frontend Projects**
+- 📫 How to reach me: DM on [GitHub](https://github.com/Pawanisharma12)
+- 📄 [My Resume – Click to View](https://drive.google.com/file/d/1g_KE0CEiye_npoaSyP5-mePLnXnY1d6c/view?usp=sharing)
+
+---
+
+## 🔥 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Pawanisharma12&theme=tokyonight&border_radius=5)](https://git.io/streak-stats)
+
+---
+
+## 📊 GitHub Stats
+
+![Pawani's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pawanisharma12&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pawanisharma12&layout=compact&theme=tokyonight)
+
+---
+
+## 🧠 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Pawani_Sharma?theme=dark)
+
+---
+
+## ⚡ Fun Fact:
+
+> "Turning coffee ☕ into code 💻 is my daily ritual."
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40"/>
+</p>
