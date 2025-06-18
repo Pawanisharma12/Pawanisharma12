@@ -4,10 +4,7 @@
       <img src="https://media.licdn.com/dms/image/v2/D5603AQGlrNFjMKhyxg/profile-displayphoto-shrink_200_200/B56ZdcxxEaGQAc-/0/1749608240618?e=2147483647&v=beta&t=xetdo4m-rBsNLW_z8hrSusBFz5nQp8IDJE9kK28Dsqk" width="100%" />
     </td>
     <td>
-    <marquee behavior="alternate" direction="left" scrollamount="10">
-  <h2 style="color:deeppink; font-family:cursive;">Hello,I'm Pawani Sharma</h2>
-</marquee>
-
+      <h1>Hello 👋, I'm <span style="color:#007acc;">Pawani Sharma</span> 🚀</h1>
       <p>
         🌟 <strong>Aspiring Full Stack Web Developer</strong><br>
         💻 Frontend Fanatic | Open Source Contributor | Clean UI Lover<br>
@@ -16,7 +13,6 @@
     </td>
   </tr>
 </table>
-
 
 ---
 
@@ -34,7 +30,7 @@
 ## 🧑‍💻 Coding From Home
 
 <p align="center">
-  <img src="https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg?semt=ais_hybrid&w=740" width="300"/>
+  <img src="https://thumbs.dreamstime.com/b/thoughtful-cartoon-girl-programmer-code-depiction-deep-coding-354449860.jpg" width="300"/>
 </p>
 
 ---
