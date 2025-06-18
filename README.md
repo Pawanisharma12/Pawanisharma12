@@ -1,10 +1,14 @@
-<h1 align="center">Hello 👋, I'm Pawani Sharma 🚀</h1>
-
-<p align="center">
-  🌟 Aspiring Full Stack Web Developer | Frontend Enthusiast | Open Source Contributor | Passionate about Clean UI Design & Modern Web Tech 🌟
-</p>
-
----
+<table>
+  <tr>
+    <td>
+      <img src="https://media.licdn.com/dms/image/v2/D5603AQGlrNFjMKhyxg/profile-displayphoto-shrink_200_200/B56ZdcxxEaGQAc-/0/1749608240618?e=2147483647&v=beta&t=xetdo4m-rBsNLW_z8hrSusBFz5nQp8IDJE9kK28Dsqk" width="200px">
+    </td>
+    <td>
+      <h1>Hello 👋, I'm Pawani Sharma 🚀</h1>
+      <p>🌟 Aspiring Full Stack Web Developer | Frontend Enthusiast | Open Source Contributor | Passionate about Clean UI Design & Modern Web Tech 🌟</p>
+    </td>
+  </tr>
+</table>
 
 ## 🧑‍💻 About Me:
 
