@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="200px">
-      <img src="https://media.licdn.com/dms/image/v2/D5603AQGlrNFjMKhyxg/profile-displayphoto-shrink_200_200/B56ZdcxxEaGQAc-/0/1749608240618?e=2147483647&v=beta&t=xetdo4m-rBsNLW_z8hrSusBFz5nQp8IDJE9kK28Dsqk" width="100%" />
+      <img src="https://png.pngtree.com/png-clipart/20230913/original/pngtree-code-clipart-illustration-of-a-girl-using-her-computer-cartoon-vector-png-image_11076382.png" width="100%" />
     </td>
     <td>
       <h1>Hello 👋, I'm <span style="color:#007acc;">Pawani Sharma</span> 🚀</h1>
